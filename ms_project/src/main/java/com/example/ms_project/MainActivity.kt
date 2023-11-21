@@ -9,7 +9,7 @@ import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import com.example.ms_project.MyApplication.Companion.email
-import com.example.ms_project.databinding.ActivityAuthBinding
+//import com.example.ms_project.databinding.ActivityAuthBinding
 import com.example.ms_project.databinding.ActivityMainBinding
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions
